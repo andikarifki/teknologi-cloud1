@@ -5,14 +5,14 @@ Heroku adalah platform cloud sebagai layanan (PaaS) yang mendukung beberapa baha
 
 ## LATIHAN
 Sebelumnya download terlebih dahulu HEROKU CLI
-[](https://github.com/andikarifki/teknologi-cloud1/blob/master/MINGGU-3/img/img.png)
+![](img/img.png)
 
 Perintah untuk login di Heroku selanjutnya di clone  
-[](https://github.com/andikarifki/teknologi-cloud1/blob/master/MINGGU-3/img/img1.png)
+![](img1.png)
 
 Perintah untuk membuka Heroku yang berisi memulai python di heroku
-[](https://github.com/andikarifki/teknologi-cloud1/blob/master/MINGGU-3/img/img2.png)
-[](https://github.com/andikarifki/teknologi-cloud1/blob/master/MINGGU-3/img/img3.png)
+![](img/img2.png)
+![](img/img3.png)
 
 Untuk Penjelasan bisa klik [kesini](https://github.com/andikarifki/teknologi-cloud1/blob/master/MINGGU-3/CLOUD%20PERT%203.pdf)
 
