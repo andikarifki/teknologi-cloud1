@@ -24,6 +24,8 @@ Berbeda dari VM, container adalah sebuah virtualisasi OS yang dapat membungkus s
 Jika dibandingkan dengan VM, secara pengaturan kontainer lebih mudah. Hal ini disebabkan karena konsep berbagi resource hardware dari container lebih fleksibel bila dibandingkan VM. Sebagai contoh, tadi disebutkan bahwa kita mempunyai 1 PC dengan 4 Core, RAM 8 GB, dan storage sebesar 500GB. Katakanlah kita mempunyai 2 container dengan kebutuhan RAM berbeda. Beberapa apps dalam container A membutuhkan RAM 5GB sedangkan apps dalam container B membutuhkan RAM 2GB. Dengan container, kita tak perlu menset kebutuhan hardware resource setiap container karena berada dalam satu sistem komputer. Sementara jika kita memakai VM dengan hardware resource yang sudah kita bagi sama rata seperti disebutkan di contoh sebelumnya, kita tidak mungkin memasang apps di container A di salah satu sistem komputer karena RAM maksimal yang bisa kita pakai hanyalah 4GB.
 
 Faktor portabilitas juga menjadi kelebihan yang dimiliki oleh container. Para developer bisa membagikan container dengan format ISO image ke setiap perangkat yang dia pakai ataupun ke developer lain.
+
+# Software Yang Diperlukan
 - [Download Docker](https://docs.docker.com/get-docker/)
 
 #Latihan
