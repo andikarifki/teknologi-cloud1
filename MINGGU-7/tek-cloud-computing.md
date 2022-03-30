@@ -33,6 +33,7 @@ Faktor portabilitas juga menjadi kelebihan yang dimiliki oleh container. Para de
 
 
 2.	Setting windows security app dulu
+ 
  ![](img/img1.jpg)
 
 
@@ -41,7 +42,9 @@ Faktor portabilitas juga menjadi kelebihan yang dimiliki oleh container. Para de
   ![](img/img2.jpg)
 
 4.	Running aplikasi docker
+
 ![](img/img3.jpg)
+
 Cek docker 'docker version'
  
 ![](img/img4.jpg)
