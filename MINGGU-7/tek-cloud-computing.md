@@ -33,44 +33,44 @@ Faktor portabilitas juga menjadi kelebihan yang dimiliki oleh container. Para de
 
 
 2.	Setting windows security app dulu
- ![](img/img1.png)
+ ![](img/img1.jpg)
 
 
 3.	Install switch demo
 
-  ![](img/img2.png)
+  ![](img/img2.jpg)
 
 4.	Running aplikasi docker
-![](img/img3.png)
+![](img/img3.jpg)
 Cek docker 'docker version'
  
-![](img/img4.png)
+![](img/img4.jpg)
 
 Buat akun terlebih dahulu
  
-![](img/img5.png)
+![](img/img5.jpg)
 
 
-![](img/img6.png)
+![](img/img6.v)
  
 
 Jika sudah verivikasi emal
 5. Mengambil image 
 -	Search  ketik “hello-world”
   
-![](img/img7.png)
+![](img/img7.jpg)
 
 Selanjutnya di github ketik perintah `docker pull hello-world`
 
-![](img/img8.png)
+![](img/img8.jpg)
  
 Cek di desktop docker -> images
 
-![](img/img9.png)
+![](img/img9.jpg)
 
 Perintah cek repository “docker images”
-![](img/img10.png)
+![](img/img10.jpg)
 
 Menjalankan docker run dengan perintah “docker run hello-world”
  
-![](img/img11.png)
+![](img/img11.jpg)
