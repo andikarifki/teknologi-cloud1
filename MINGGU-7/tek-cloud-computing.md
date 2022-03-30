@@ -26,31 +26,51 @@ Jika dibandingkan dengan VM, secara pengaturan kontainer lebih mudah. Hal ini di
 Faktor portabilitas juga menjadi kelebihan yang dimiliki oleh container. Para developer bisa membagikan container dengan format ISO image ke setiap perangkat yang dia pakai ataupun ke developer lain.
 - [Download Docker](https://docs.docker.com/get-docker/)
 
-> Latihan
+#Latihan
 
 1.	Install docker terlebih dahulu
+
+
+
 2.	Setting windows security app dulu
- 
+ ![](img/img1.png)
+
+
 3.	Install switch demo
 
- 
+  ![](img/img2.png)
+
 4.	Running aplikasi docker
+![](img/img3.png)
+Cek docker 'docker version'
  
-Cek docker version
- 
+![](img/img4.png)
+
 Buat akun terlebih dahulu
  
- 
-Jika sudah verivikasi emal
-  5. Mengambil image 
--	Search  ketik “hello-world”
- 
-Selanjutnya di github ketik perintah “docker pull hello-world”
+![](img/img5.png)
 
+
+![](img/img6.png)
+ 
+
+Jika sudah verivikasi emal
+5. Mengambil image 
+-	Search  ketik “hello-world”
+  
+![](img/img7.png)
+
+Selanjutnya di github ketik perintah `docker pull hello-world`
+
+![](img/img8.png)
  
 Cek di desktop docker -> images
- 
+
+![](img/img9.png)
+
 Perintah cek repository “docker images”
- 
+![](img/img10.png)
+
 Menjalankan docker run dengan perintah “docker run hello-world”
  
+![](img/img11.png)
