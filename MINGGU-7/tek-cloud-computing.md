@@ -59,7 +59,8 @@ Buat akun terlebih dahulu
 ![](img/img6.v)
  
 
-Jika sudah verivikasi emal
+Jika sudah verivikasi email
+
 5. Mengambil image 
 -	Search  ketik “hello-world”
   
@@ -76,6 +77,6 @@ Cek di desktop docker -> images
 Perintah cek repository “docker images”
 ![](img/img10.jpg)
 
-Menjalankan docker run dengan perintah 'docker run hello-world'
+Menjalankan docker run dengan perintah `docker run hello-world`
  
 ![](img/img11.jpg)
