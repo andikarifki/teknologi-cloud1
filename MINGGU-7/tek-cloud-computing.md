@@ -47,7 +47,7 @@ Faktor portabilitas juga menjadi kelebihan yang dimiliki oleh container. Para de
 
 ![](img/img3.jpg)
 
-Cek docker 'docker version'
+Cek docker `docker version`
  
 ![](img/img4.jpg)
 
