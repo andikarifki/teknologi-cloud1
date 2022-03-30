@@ -28,7 +28,7 @@ Faktor portabilitas juga menjadi kelebihan yang dimiliki oleh container. Para de
 # Software Yang Diperlukan
 - [Download Docker](https://docs.docker.com/get-docker/)
 
-#Latihan
+# Latihan
 
 1.	Install docker terlebih dahulu
 
