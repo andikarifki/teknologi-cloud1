@@ -15,32 +15,46 @@ pilih Windows Hosts
 [Link Download](https://ubuntu.com/download/desktop)
 
 3. Install Virtual Box
-- [Bisa lihat disini](https://www.nesabamedia.com/cara-install-ubuntu-di-virtualbox/)
+[Bisa lihat disini](https://www.nesabamedia.com/cara-install-ubuntu-di-virtualbox/)
 
 4. Install Ubuntu
 - Klik New 
+
 ![](img/img1.png)
+
 - Isi nama bebas, 
 Type: Linux, 
 Version: Ubuntu (64-bit), 
 pilih Create a virtual hard disk now, 
 OK
+
 ![](img/img2.png)
+
 - Pilih file location bebas, pilih yang VDI (Virtual Disk Image)
+
 ![](img/img3.png)
+
 - Tampilan Selesai
+
 ![](img/img4.png)
+
 Lalu Klik Start untuk dan jalankan
+
 ![](img/img5.png)
+
 5. Untuk menginstall git di OS LINUX UBUNTU
 - bukalah terminal distart->pilih terminal
-- ketik $ sudo apt git install
+- ketik $ `sudo apt git install`
+
 ![](img/img6.png)
+
 6. Selanjutnya install devstack 
--	$ sudo useradd -s /bin/bash -d /opt/stack -m stack
--	$ echo "stack ALL=(ALL) NOPASSWD: ALL" | sudo tee /etc/sudoers.d/stack
--	$ sudo -u stack -i
+-	$ `sudo useradd -s /bin/bash -d /opt/stack -m stack`
+-	$ `echo "stack ALL=(ALL) NOPASSWD: ALL" | sudo tee /etc/
+sudoers.d/stack`
+-	$ `sudo -u stack -i`
 7. Clone file devstack dengan github
+
 ![](img/img6.png)
 
 Membuat local.conf¶
@@ -54,5 +68,6 @@ SERVICE_PASSWORD=$ADMIN_PASSWORD
 
 8. Setting IP host terlebih dahulu di stack.rc jika gagal dengan notif
 9. Setting di stack.sh pada line : 234
-10. Selanjutnya ketik $ ./stack.sh
+10. Selanjutnya ketik $ `./stack.sh`
+
 ![](img/img8.png)
